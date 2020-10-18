@@ -1,6 +1,6 @@
 ### Hi everyone,  i'm Ganesh V Bidve 👋
 
-###Software development is my profession
+### Software development is my profession
 
 <!--
 **GaneshBidve/GaneshBidve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
