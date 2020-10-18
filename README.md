@@ -1,4 +1,4 @@
-### Hi EveryOne i'm Ganesh V Bidve 👋
+### Hi EveryOne,  i'm Ganesh V Bidve 👋
 
 <!--
 **GaneshBidve/GaneshBidve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
