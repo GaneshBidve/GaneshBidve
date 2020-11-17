@@ -3,7 +3,7 @@
 ## Software development is my profession
 
 - 🔭 I’m currently working as Java Developer
-- 🌱 I’m currently learning Restfull Services, Docker, Kubernetes
+- 🌱 Backend developement Using Java
 
 <!--
 **GaneshBidve/GaneshBidve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
